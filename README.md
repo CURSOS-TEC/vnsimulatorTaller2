@@ -7,7 +7,7 @@ Lea las siguinetes intrucciones con el fin de realizar las revisiones pertinente
 
 ### Ejercico 1
 * Cargar archivo ejercicio 1
-* Seleccionar un número entre  0 y 100 y guardarlo en el registro X
+* Seleccionar un número entre  0 y 100, guardarlo en el registro X
 * Seleccionar un número entre 0 y 9 Y
 * Presionar play
 * El resultado será visualizado en el registro Z
